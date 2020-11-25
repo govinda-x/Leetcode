@@ -12,5 +12,6 @@ class Solution {
             ans+=(nums[i]-min);
         }
         return ans;
+
     }
 }
