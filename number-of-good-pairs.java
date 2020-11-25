@@ -12,6 +12,5 @@ class Solution {
             }
         }
         return count;
-        
     }
 }
