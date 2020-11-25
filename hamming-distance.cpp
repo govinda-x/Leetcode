@@ -23,7 +23,8 @@ public:
                 Zero++;
             }
             sum = (sum + ((2LL * One * Zero) % mod))%mod;
-        }        
+        }   
+     
         return sum/2;
         
     }
