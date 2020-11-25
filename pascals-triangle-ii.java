@@ -14,6 +14,5 @@ class Solution {
         }
         ans.add(1);
         return ans;
-        
     }
 }
