@@ -21,6 +21,7 @@ class Solution {
                 i++;
             }
         }
+
         return max_area;
     }
 }
