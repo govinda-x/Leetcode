@@ -1,5 +1,4 @@
-class Solution 
-{
+class Solution{
     public int repeatedNTimes(int[] A) 
     {
         int ans = 0, max=0;
@@ -21,7 +20,5 @@ class Solution
             }
         }
         return ans;
-        
-        
     }
 }
