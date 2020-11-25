@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public boolean isAnagram(String s, String t) 
     {
         char tempArray[] = s.toCharArray(); 
