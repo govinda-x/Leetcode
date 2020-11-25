@@ -15,6 +15,5 @@ public:
             result+=(count%3)<<i;
         }
         return result;
-        
     }
 };
