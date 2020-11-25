@@ -21,8 +21,6 @@ class Solution {
         {
             return true;
         }
-        return false;
-        
-        
+        return false;    
     }
 }
