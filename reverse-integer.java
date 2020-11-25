@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int reverse(int x) 
     {
         if(x<10 && x>=0)
