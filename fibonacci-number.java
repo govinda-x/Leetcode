@@ -17,6 +17,5 @@ class Solution {
             s2=s3;
         }
         return s3;
-        
     }
 }
