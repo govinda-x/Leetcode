@@ -12,6 +12,5 @@ class Solution {
             j--;
         }
         System.out.println(s);
-        
     }
 }
