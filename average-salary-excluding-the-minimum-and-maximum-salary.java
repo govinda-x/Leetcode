@@ -14,6 +14,7 @@ class Solution {
             c++;
             avg+=salary[i];
         }
+
         double res = avg/c;
         return res;
     }
