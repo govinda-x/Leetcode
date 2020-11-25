@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public String restoreString(String s, int[] indices) 
     {
         char [] arr = new char[s.length()];
