@@ -1,7 +1,8 @@
 class Solution {
     public double myPow(double x, int n) 
     {
-       if(n<0 && n>Integer.MIN_VALUE) {
+       if(n<0 && n>Integer.MIN_VALUE) 
+	{
             x=1/x;
             n=-(n);
         }
