@@ -35,8 +35,6 @@ class Solution {
                 pos_odd++;
             }
         }
-​
-        return ans;
-        
+        return ans;        
     }
 }
