@@ -15,6 +15,7 @@ class Solution {
         {
             return bS(A,l,mid);
         }
+
         return bS(A,mid+1,r);
     }
 }
