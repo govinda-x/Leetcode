@@ -15,6 +15,7 @@ class Solution
                 n=n+address.charAt(i);
             }
         }
+
         return n;
     }
 }
