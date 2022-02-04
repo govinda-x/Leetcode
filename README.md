@@ -1,3 +1,3 @@
 # Leetcode
-Collection of LeetCode questions!!
+Collection of LeetCode solved questions in JAVA!!
 https://leetcode.com/govinda_x/
